@@ -17,3 +17,5 @@ You can contact me below:
 		https://www.patreon.com/timetravelbeard
 		https://youtube.com/@timetravelbeard3588
 		https://discord.gg/S6F4r6K5yU 
+
+episode 1 starts from this Shadow Tutorial: https://github.com/shaderLABS/Shadow-Tutorial it is also here just for convenience & to avoid confusion
