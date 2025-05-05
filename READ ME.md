@@ -1,10 +1,10 @@
 These Minecraft Shader Tutorials are also available at the following links, and may have newer versions there:
 
-	Patreon (free):
-		https://www.patreon.com/posts/105855874?collection=1235733
+Patreon (free):
+	https://www.patreon.com/posts/105855874?collection=1235733
 		
-	Modrinth: 
-		https://modrinth.com/shader/make-your-own-shaders
+Modrinth: 
+	https://modrinth.com/shader/make-your-own-shaders
 
 	
 The video walkthroughs are here:
