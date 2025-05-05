@@ -1,4 +1,4 @@
-These Minecraft Shader Tutorials are also available at the following links, and may have newer versions there:
+These Minecraft Shader Tutorials are also available at the following links, and probably have newer versions and more tutorials there:
 
 Patreon (free):
 	https://www.patreon.com/posts/105855874?collection=1235733
