@@ -6,6 +6,7 @@ Patreon (free):
 Modrinth: 
 	https://modrinth.com/shader/make-your-own-shaders
 
+I think browsing the files is a lot more intuitive on those platforms because each version has a description & they are shown in order.
 	
 The video walkthroughs are here:
 	https://youtube.com/playlist?list=PLn6IKc7V_f-EeKXbz5BI44esnKqtMoXfG&si=rUKS5t4XLEJi6UQX
